@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "080ba5f49d7df056",
+        "id": "47f1d142b1bd7f16",
         "type": "tabs",
         "children": [
           {
-            "id": "5579c9d6542d4b76",
+            "id": "7743479758279a0b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School/Wirtschaft.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/Wirtschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/Wirtschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/Wirtschaft.md"
+              }
             }
           },
           {
@@ -163,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5579c9d6542d4b76",
+  "active": "7743479758279a0b",
   "lastOpenFiles": [
-    "README.md",
-    "School/ABs/Math 2024-02-23 11.41.53.excalidraw.md",
-    "School/ABs/AB_7_Energie_im_Kondensatorfeld_2024.pdf",
-    "School/Wirtschaft.md",
     "School/Physik.md",
     "School/Math.md",
     "School/German.md",
     "School/Englisch.md",
     "School/Englisch Z Kurs.md",
+    "School/Wirtschaft.md",
+    "README.md",
+    "School/ABs/Math 2024-02-23 11.41.53.excalidraw.md",
+    "School/ABs/AB_7_Energie_im_Kondensatorfeld_2024.pdf",
     "School/ABs",
     "School",
     "Personal/Sonic Screwdriver.md",
