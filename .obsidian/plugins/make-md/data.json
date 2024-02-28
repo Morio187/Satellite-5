@@ -19,7 +19,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "/",
+  "activeView": "Spaces/Home",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -42,7 +42,6 @@
     "//Spaces",
     "//Personal",
     "//Excalidraw",
-    "Spaces/Home/Personal",
     "//Resources"
   ],
   "expandFolderOnClick": true,
