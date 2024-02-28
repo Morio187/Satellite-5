@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "721ce2ad59870a20",
+    "type": "split",
+    "children": [
+      {
+        "id": "080ba5f49d7df056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5579c9d6542d4b76",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a24a1f1ae98f1b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8f9356d2b564e52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "031fa6ca987f2fe4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e63028891287e4df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a491f598f09a40d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2dbeaa5e3d6c2940",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "317f2126f0718550",
+    "type": "split",
+    "children": [
+      {
+        "id": "444bb136c89cc6af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "746046439703a32d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21808e17fe6ebbf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15235a1e674214ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c8b043d9a21afef5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "dee39cb799f0e3dc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-day-planner:Timeline": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-map-view:Open map view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5579c9d6542d4b76",
+  "lastOpenFiles": [
+    "README.md",
+    "School/ABs/Math 2024-02-23 11.41.53.excalidraw.md",
+    "School/ABs/AB_7_Energie_im_Kondensatorfeld_2024.pdf",
+    "School/Wirtschaft.md",
+    "School/Physik.md",
+    "School/Math.md",
+    "School/German.md",
+    "School/Englisch.md",
+    "School/Englisch Z Kurs.md",
+    "School/ABs",
+    "School",
+    "Personal/Sonic Screwdriver.md",
+    "Personal",
+    "Resources/IMG_4980.JPG",
+    "Resources/20. Februar '24.pdf",
+    "Resources",
+    "Excalidraw/Sonic Screwdriver 2024-02-26 08.48.27.excalidraw.md",
+    "Excalidraw/Physik_11_Schiller_AB7.excalidraw.md",
+    "Excalidraw/Math_Integrals_Block_1.excalidraw.md",
+    "Excalidraw/Math_Derivatives_Understanding_Examples.excalidraw.md",
+    "Excalidraw",
+    "Spaces/Home/Home.md",
+    "Spaces/Home",
+    "Spaces",
+    "satellite_5/Spaces/Home/Home.md",
+    "satellite_5/Spaces/Home",
+    "satellite_5/School/ABs/Math 2024-02-23 11.41.53.excalidraw.md",
+    "satellite_5/School/Wirtschaft.md",
+    "satellite_5/School/Physik.md",
+    "satellite_5/School/Math.md",
+    "satellite_5/School/German.md",
+    "satellite_5/School/Englisch.md",
+    "satellite_5/School/Englisch Z Kurs.md",
+    "satellite_5/Resources/IMG_4980.JPG",
+    "satellite_5/README.md",
+    "satellite_5/Personal/Sonic Screwdriver.md",
+    "satellite_5/Excalidraw/Sonic Screwdriver 2024-02-26 08.48.27.excalidraw.md",
+    "satellite_5/Excalidraw/Physik_11_Schiller_AB7.excalidraw.md",
+    "test_1/Resources/IMG_4980.JPG"
+  ]
+}
